@@ -1,4 +1,4 @@
-FROM hsuanjung/ruby-http:3.1.2
+FROM jerry91400/ruby-http:3.1.2
 
 WORKDIR /worker
 

@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require_relative '../../init.rb'
-require 'aws-sdk-ses'
 
 module LightofdayWorker
   # Scheduled worker to send light of day to subscriber
